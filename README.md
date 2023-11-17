@@ -5,7 +5,7 @@
 
 
 
-![output gif](https://github.com/sv2441/Clariture/assets/62471058/904f4027-4238-4290-9b4f-fe3e2371b9de)
+https://github.com/sv2441/Clariture/assets/62471058/904f4027-4238-4290-9b4f-fe3e2371b9de
 
 
 
