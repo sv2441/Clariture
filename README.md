@@ -9,7 +9,7 @@
 ## 📜Introduction
 
 Here are some of the incidents which people have faced due to various hazardous activities.
-- Fires caused 3,704 deaths, 16,600 injuries, and $14.8 billion in property damage in 2019.
+- Fires caused an estimated 3,790 civilian deaths; 13,250 civilian injuries; and $18 billion in direct property damage.
 - Road accidents cause 1.35 million deaths annually and cost countries 3% of their GDP.
 - The economic and life losses caused by these incidents can have a significant impact on individuals, families, and communities.
 
@@ -27,7 +27,7 @@ Additionally, Clariture can analyze patterns of behavior and detect any anomalie
 ## 💻Installation and Setup
 
 ```
- git clone https://github.com/Darshan1506/Hack-A-Thon-7.0-clariture-FE.git
+ git clone https://github.com/sv2441/Clariture.git
  npm install
  npm start
 
@@ -35,10 +35,10 @@ Additionally, Clariture can analyze patterns of behavior and detect any anomalie
 ## 📊Dataset ,Models and Modulewise code
 https://drive.google.com/drive/folders/1U7-npiyr0YFmWL4DXensD9vyOy3exkac?usp=share_link
 
-- [Accident detection module for Clariture](https://github.com/Poojasharma1301/accident_detection_for_Clariture)
-- [Violence detection module for Clariture](https://github.com/Poojasharma1301/Violence_detection_for_Clariture)
-- [Weapons detection module for Clariture](https://github.com/Poojasharma1301/Weapons_detection_for_Clariture)
-- [Fire detection module for Clariture](https://github.com/Poojasharma1301/Fire_detection_for_Clariture)
+- [Accident detection module for Clariture](https://github.com/sandeshdhurvey27/accident_detection)
+- [Violence detection module for Clariture](https://github.com/Avnishm99/Violence-detection-module-for-Clariture)
+- [Weapons detection module for Clariture](https://github.com/sandeshdhurvey27/Weapons-Detection-)
+- [Fire detection module for Clariture](https://github.com/Avnishm99/Fire-detection-module-for-Clariture)
 
 
 ## 🏆Output
@@ -58,14 +58,12 @@ https://user-images.githubusercontent.com/63538576/226506174-0b593554-e2b7-42c3-
 ## 🔥Acknowledgement
 - [Reactjs](https://legacy.reactjs.org/docs/getting-started.html)
 - [Firebase](https://firebase.google.com/docs)
-- [Accident detection module for Clariture](https://github.com/Poojasharma1301/accident_detection_for_Clariture)
-- [Violence detection module for Clariture](https://github.com/Poojasharma1301/Violence_detection_for_Clariture)
-- [Weapons detection module for Clariture](https://github.com/Poojasharma1301/Weapons_detection_for_Clariture)
-- [Fire detection module for Clariture](https://github.com/Poojasharma1301/Fire_detection_for_Clariture)
+- [Accident detection module for Clariture](https://github.com/sandeshdhurvey27/accident_detection)
+- [Violence detection module for Clariture](https://github.com/Avnishm99/Violence-detection-module-for-Clariture)
+- [Weapons detection module for Clariture](https://github.com/sandeshdhurvey27/Weapons-Detection-)
+- [Fire detection module for Clariture](https://github.com/Avnishm99/Fire-detection-module-for-Clariture)
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">Team Contributor
 - [Sandeep Vishwakarma](https://github.com/sv2441)
-- [Sai Bhatkar](https://github.com/saibhatkar) 
-- [Pooja Sharma](https://github.com/Poojasharma1301)
-- [Satyam Palkar](https://github.com/SatyamPalkar)
-- [Darshan Rajpurohit](https://github.com/Darshan1506)
+- [Sandesh Dhurvey](https://github.com/sandeshdhurvey27) 
+- [Avnish Mangaraj](https://github.com/Avnishm99)
