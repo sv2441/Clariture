@@ -3,7 +3,11 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">[Deployment Link](https://hack-a-thon-7-0-clariture-fe.vercel.app/)
 
-![output gif](https://user-images.githubusercontent.com/62471058/226515397-276c5558-17aa-4d02-9fc9-cf7beaf62ef1.gif)
+
+
+https://github.com/sv2441/Clariture/assets/62471058/904f4027-4238-4290-9b4f-fe3e2371b9de
+
+
 
 
 ## 📜Introduction
@@ -42,7 +46,8 @@ https://drive.google.com/drive/folders/1U7-npiyr0YFmWL4DXensD9vyOy3exkac?usp=sha
 
 
 ## 🏆Output
-https://user-images.githubusercontent.com/63538576/226506174-0b593554-e2b7-42c3-99fa-64bc371b4ff4.mp4
+
+
 ## ⚙️Tech Used 
 <p>
 <code><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></code>
