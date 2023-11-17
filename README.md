@@ -5,7 +5,7 @@
 
 
 
-https://github.com/sv2441/Clariture/assets/62471058/904f4027-4238-4290-9b4f-fe3e2371b9de
+![output gif](https://github.com/sv2441/Clariture/assets/62471058/904f4027-4238-4290-9b4f-fe3e2371b9de)
 
 
 
@@ -46,6 +46,7 @@ https://drive.google.com/drive/folders/1U7-npiyr0YFmWL4DXensD9vyOy3exkac?usp=sha
 
 
 ## 🏆Output
+
 
 
 ## ⚙️Tech Used 
