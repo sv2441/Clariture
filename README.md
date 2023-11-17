@@ -3,9 +3,10 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">[Deployment Link](https://hack-a-thon-7-0-clariture-fe.vercel.app/)
 
+![output gif](https://github.com/sv2441/Clariture/assets/62471058/10dbcdce-cca4-44a7-9bc8-226dc5feddd1)
 
 
-https://github.com/sv2441/Clariture/assets/62471058/904f4027-4238-4290-9b4f-fe3e2371b9de
+
 
 
 
@@ -46,6 +47,10 @@ https://drive.google.com/drive/folders/1U7-npiyr0YFmWL4DXensD9vyOy3exkac?usp=sha
 
 
 ## 🏆Output
+
+
+https://github.com/sv2441/Clariture/assets/62471058/8df57aad-153d-465a-876c-edc4517bcd71
+
 
 
 
