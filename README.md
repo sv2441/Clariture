@@ -1,7 +1,7 @@
 # 🏁Clariture
 <img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">[Deployment Link](https://hack-a-thon-7-0-clariture-fe.vercel.app/)
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">[Deployment Link](https://clariture-symboisis.vercel.app/)
 
 ![output gif](https://github.com/sv2441/Clariture/assets/62471058/10dbcdce-cca4-44a7-9bc8-226dc5feddd1)
 
