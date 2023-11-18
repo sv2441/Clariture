@@ -18,7 +18,7 @@ account_sid = 'ACffc287f021545f77a458481e94549e76'
 auth_token = '2c9be3e747788e60f4c5557690301326'
 
 # loading the stored model from file
-model=load_model(r"C:\Users\saibh\Desktop\RJ HACK\upload\Fire-64x64-color-v7-soft.h5")
+model=load_model(r"Fire-64x64-color-v7-soft.h5")
 
 cap = cv2.VideoCapture(0)  # use 0 for web camera
 
@@ -56,7 +56,7 @@ def gen_frames():
         while(fire_prob >=95):
             message = client.messages.create(
                               from_='+15177935675',
-                              body = 'Anomaly is detected do cheak your CCTV feed on https://hack-a-thon-7-0-clariture-fe.vercel.app/',
+                              body = 'Anomaly is detected do cheak your CCTV feed '',
                               to ='+919004178762'
                           )
             print("detected fire")
