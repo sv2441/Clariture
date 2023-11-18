@@ -75,6 +75,6 @@ https://github.com/sv2441/Clariture/assets/62471058/8df57aad-153d-465a-876c-edc4
 - [Fire detection module for Clariture](https://github.com/Avnishm99/Fire-detection-module-for-Clariture)
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">Team Contributor
-- [Sandeep Vishwakarma](sandeepvishwakarma.in)
+- [Sandeep Vishwakarma](https://sandeepvishwakarma.in)
 - [Sandesh Dhurvey](https://github.com/sandeshdhurvey27) 
 - [Avnish Mangaraj](https://github.com/Avnishm99)
